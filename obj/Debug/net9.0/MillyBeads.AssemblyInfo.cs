@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MillyBeads")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4dcd1af24263d4fa821514e73541b5ca2b445915")]
 [assembly: System.Reflection.AssemblyProductAttribute("MillyBeads")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MillyBeads")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
