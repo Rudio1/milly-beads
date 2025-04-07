@@ -200,3 +200,4 @@ C:\Users\guilhermerc\Documents\Pessoal\milly-beads\MillyBeads\bin\Debug\net9.0\M
 C:\Users\guilhermerc\Documents\Pessoal\milly-beads\MillyBeads\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\guilhermerc\Documents\Pessoal\milly-beads\MillyBeads\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\guilhermerc\Documents\Pessoal\milly-beads\MillyBeads\obj\Debug\net9.0\compressed\74nva3uehu-uhwjzbg98m.gz
+C:\Users\guilhermerc\Documents\Pessoal\milly-beads\MillyBeads\obj\Debug\net9.0\MillyBeads.sourcelink.json
